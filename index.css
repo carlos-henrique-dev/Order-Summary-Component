@@ -83,6 +83,7 @@ body, html {
 
 .card .content .pricing .plan .name {
 	margin: 0;
+	font-size: 16px;
 }
 
 .card .content .pricing .plan .price {
