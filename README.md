@@ -22,10 +22,10 @@ The goal of this challenge was to create a order summary card using. Althogh the
 
 ![Result screenshot](./images/result.png)
 
-### Links
+<!-- ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
 
 ## My process
 
